@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\alunoti\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.3.aar\12c2bcb4d0cdd6d284b2b51f0a305d9c\jars\classes.jar
+FILE.hash=4f67afbad3f053d82cf5308e0c1ccb2355cc432067a3491ffd189ce8102add0b
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=15
+IS_DEBUGGABLE=true

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\codeStyles\Project.xml" timestamp="1541715434048" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\gradle.xml" timestamp="1541715433862" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1541715473969" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1.xml" timestamp="1541715474050" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1541715474103" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1.xml" timestamp="1541715474151" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" timestamp="1541715474203" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1.xml" timestamp="1541715474313" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" timestamp="1541715474437" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" timestamp="1541715474549" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0.xml" timestamp="1541715474664" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" timestamp="1541715474761" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1541715475157" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" timestamp="1541715475332" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1541715475473" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0.xml" timestamp="1541715475578" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0.xml" timestamp="1541715475682" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_customview_28_0_0.xml" timestamp="1541715475772" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0.xml" timestamp="1541715475866" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0.xml" timestamp="1541715475945" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0.xml" timestamp="1541715476040" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_loader_28_0_0.xml" timestamp="1541715476113" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" timestamp="1541715476244" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_print_28_0_0.xml" timestamp="1541715476512" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0.xml" timestamp="1541715476637" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1541715476708" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0.xml" timestamp="1541715476788" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0.xml" timestamp="1541715476924" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0.xml" timestamp="1541715477019" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0.xml" timestamp="1541715477085" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_media_compat_26_1_0.xml" timestamp="1541715477151" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_v4_26_1_0.xml" timestamp="1541715477233" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0.xml" timestamp="1541715477310" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" timestamp="1541715477611" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1541715477702" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1541715477934" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1541715478092" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1541715478234" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0.xml" timestamp="1541715478437" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0.xml" timestamp="1541715478580" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_ads_identifier_16_0_0.xml" timestamp="1541715478669" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_base_16_0_1.xml" timestamp="1541715478762" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_basement_16_0_1.xml" timestamp="1541715478890" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_measurement_api_16_0_2.xml" timestamp="1541715479023" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_measurement_base_16_0_3.xml" timestamp="1541715479215" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_stats_16_0_1.xml" timestamp="1541715479410" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_android_gms_play_services_tasks_16_0_1.xml" timestamp="1541715479523" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1541715479764" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_analytics_16_0_4.xml" timestamp="1541715479846" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_analytics_impl_16_2_2.xml" timestamp="1541715479961" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_common_16_0_3.xml" timestamp="1541715480065" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_core_16_0_4.xml" timestamp="1541715480195" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_database_16_0_3.xml" timestamp="1541715480364" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_database_collection_16_0_0.xml" timestamp="1541715480542" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_iid_17_0_3.xml" timestamp="1541715480643" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_iid_interop_16_0_1.xml" timestamp="1541715480719" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_measurement_connector_17_0_1.xml" timestamp="1541715481048" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_google_firebase_firebase_measurement_connector_impl_17_0_2.xml" timestamp="1541715481129" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1541715481211" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1541715481336" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1541715481429" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1541715481501" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1541715481676" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1541715481762" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1541715481983" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\misc.xml" timestamp="1541719519268" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\modules.xml" timestamp="1541715473904" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\runConfigurations.xml" timestamp="1541715434095" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\.idea\workspace.xml" timestamp="1541721423342" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\FirebaseApp.iml" timestamp="1541715473320" />
+    <file path="C:\Users\alunoti\Downloads\Aula12\Biblioteca_1453090\FirebaseApp\app\app.iml" timestamp="1541719672816" />
+  </project-files>
+</conversion>
+

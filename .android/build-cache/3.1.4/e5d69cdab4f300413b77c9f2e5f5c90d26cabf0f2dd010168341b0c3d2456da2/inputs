@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\alunoti\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.4.aar\4024ff0bd63fc6191f612351377a4475\jars\classes.jar
+FILE.hash=733c852d9bde63141ffff5259b9fc24f7a23619dacda18d11347e1d22dab17f5
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=15
+IS_DEBUGGABLE=true

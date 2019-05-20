@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\codeStyles\Project.xml" timestamp="1557751851092" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\gradle.xml" timestamp="1557751964830" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1557752445222" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1.xml" timestamp="1557752445285" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1557752445347" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1.xml" timestamp="1557752445378" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" timestamp="1557752445409" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1.xml" timestamp="1557752445472" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" timestamp="1557752445503" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" timestamp="1557752445534" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0.xml" timestamp="1557752445581" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" timestamp="1557752445612" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1557752445644" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" timestamp="1557752445690" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1557752445722" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0.xml" timestamp="1557752445784" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0.xml" timestamp="1557752445846" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_customview_28_0_0.xml" timestamp="1557752445909" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0.xml" timestamp="1557752445940" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0.xml" timestamp="1557752446002" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0.xml" timestamp="1557752446034" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_loader_28_0_0.xml" timestamp="1557752446080" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" timestamp="1557752446174" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_print_28_0_0.xml" timestamp="1557752446268" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0.xml" timestamp="1557752446361" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1557752446439" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0.xml" timestamp="1557752446517" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0.xml" timestamp="1557752446595" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0.xml" timestamp="1557752446689" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0.xml" timestamp="1557752446751" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0.xml" timestamp="1557752446798" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" timestamp="1557752446845" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1557752446892" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1557752446986" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1557752447032" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1557752447079" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0.xml" timestamp="1557752447157" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0.xml" timestamp="1557752447235" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1557752447329" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1557752447438" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1557752447516" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1557752447579" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1557752447657" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1557752447735" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1557752447813" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1557752447906" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\misc.xml" timestamp="1557752445082" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\modules.xml" timestamp="1557752445191" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\runConfigurations.xml" timestamp="1557751964893" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\vcs.xml" timestamp="1557752445144" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\.idea\workspace.xml" timestamp="1557763164720" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\CatalogoDoLivro.iml" timestamp="1557752444894" />
+    <file path="C:\Users\alunoti\CatalogoDoLivro\app\app.iml" timestamp="1557752444941" />
+  </project-files>
+</conversion>
+

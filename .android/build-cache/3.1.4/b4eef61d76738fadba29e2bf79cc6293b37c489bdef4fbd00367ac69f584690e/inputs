@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=C:\Users\alunoti\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4480949c6c5171b6a3f6149cecc675f1\jars\classes.jar
+FILE.hash=259684ecf3b7a397b4278ff285f41a669d06f41f9b762ab310033e805b2b6ccd
+DX_VERSION=1.16
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=D8
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=15
+IS_DEBUGGABLE=true

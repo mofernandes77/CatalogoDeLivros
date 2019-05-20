@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="res"><source path="F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res"><file path="F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res\layout\activity_main.xml" qualifiers="" timestamp="1554730530000"><item name="campoEndereco" type="id"/><item name="botaoOK" type="id"/><item name="botaoChamada" type="id"/><item name="activity_main" type="layout">F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res\layout\activity_main.xml</item></file><file path="F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res\values\colors.xml" qualifiers="" timestamp="1554124472000"><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#FF4081</color></file><file path="F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res\values\styles.xml" qualifiers="" timestamp="1554124472000"><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style></file><file path="F:\Android Studio Projetos e Prototipos\Trabalho_ADS2\app\src\main\res\values\strings.xml" qualifiers="" timestamp="1554124470000"><string name="app_name">Trabalho_ADS</string></file></source></dataSet><mergedItems/></merger>

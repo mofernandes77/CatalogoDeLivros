@@ -1,0 +1,24 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="190" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="483" y="164" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="17" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="387" y="132" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="322" y="208" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="121" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1366.768" x="416" y="0" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="263" y="71" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="57" />
+    <location key="SettingsEditor.0.0.1366.768" x="161" y="11" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="303" y="0" />
+    <location key="chooseDestDirectoryDialog.0.0.1366.768" x="497" y="143" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="113" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="475" y="242" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
+    <size key="javadoc.popup.0.0.1366.768" width="446" height="170" />
+  </component>
+</application>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\alunoti\Exercicios\.idea\codeStyles\Project.xml" timestamp="1555333060621" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\gradle.xml" timestamp="1555333081464" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1555333097907" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1.xml" timestamp="1555333097938" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1555333098001" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_lifecycle_livedata_1_1_1.xml" timestamp="1555333098032" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" timestamp="1555333098063" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1.xml" timestamp="1555333098126" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" timestamp="1555333098172" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0.xml" timestamp="1555333098204" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0.xml" timestamp="1555333098235" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0.xml" timestamp="1555333098313" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_cardview_v7_28_0_0.xml" timestamp="1555341211419" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_collections_28_0_0_jar.xml" timestamp="1555333098360" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" timestamp="1555333098422" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" timestamp="1555333098484" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0.xml" timestamp="1555333098734" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0.xml" timestamp="1555333098781" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_customview_28_0_0.xml" timestamp="1555333098812" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_design_28_0_0.xml" timestamp="1555341211542" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0.xml" timestamp="1555333098874" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0.xml" timestamp="1555333099186" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0.xml" timestamp="1555333099233" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_loader_28_0_0.xml" timestamp="1555333099280" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0.xml" timestamp="1555333099342" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_print_28_0_0.xml" timestamp="1555333099389" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_recyclerview_v7_28_0_0.xml" timestamp="1555341211663" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0.xml" timestamp="1555333099420" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_jar.xml" timestamp="1555333099452" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0.xml" timestamp="1555333099498" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0.xml" timestamp="1555333099514" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0.xml" timestamp="1555333099561" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0.xml" timestamp="1555333099623" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_media_compat_28_0_0.xml" timestamp="1555341211778" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_v4_28_0_0.xml" timestamp="1555341211890" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0.xml" timestamp="1555333099732" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0.xml" timestamp="1555333099842" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1555333099888" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1555333099935" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1555333099982" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1555333100029" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_transition_28_0_0.xml" timestamp="1555341212063" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0.xml" timestamp="1555333100076" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0.xml" timestamp="1555333100107" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1555333100200" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1555333100232" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1555333100434" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1555333100700" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1555333100731" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1555333100809" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1555333100840" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1555333100902" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\misc.xml" timestamp="1557751128445" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\modules.xml" timestamp="1555333097814" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\runConfigurations.xml" timestamp="1555333081511" />
+    <file path="C:\Users\alunoti\Exercicios\.idea\workspace.xml" timestamp="1557752444442" />
+    <file path="C:\Users\alunoti\Exercicios\Exercicios.iml" timestamp="1555333097408" />
+    <file path="C:\Users\alunoti\Exercicios\app\app.iml" timestamp="1555341210976" />
+  </project-files>
+</conversion>
+

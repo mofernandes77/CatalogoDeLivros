@@ -1,0 +1,23 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="1" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="12" />
+      <entry action="ExternalSystem.AttachProject@Gradle View Toolbar" count="1" />
+      <entry action="ExternalSystem.RefreshAllProjects@Gradle View Toolbar" count="3" />
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="1" />
+      <entry action="FileChooser.ShowHiddens@FileChooserDialog" count="2" />
+      <entry action="MakeGradleProject@NavBarToolbar" count="11" />
+      <entry action="Rerun@RunnerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="55" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="2" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="97" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="1" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.configurations.ThemeMenuAction@toolbar" count="13" />
+      <entry action="com.intellij.build.AbstractViewManager$CloseBuildContentAction@BuildView" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>

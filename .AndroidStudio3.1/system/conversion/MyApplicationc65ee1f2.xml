@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\codeStyles\Project.xml" timestamp="1535483914361" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\gradle.xml" timestamp="1535640303168" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_core_common_1_1_1_jar.xml" timestamp="1535650560185" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_core_runtime_1_1_1.xml" timestamp="1535650560263" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" timestamp="1535650560341" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_livedata_core_1_1_1.xml" timestamp="1535650560388" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_runtime_1_1_1.xml" timestamp="1535650560434" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__android_arch_lifecycle_viewmodel_1_1_1.xml" timestamp="1535650560497" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_animated_vector_drawable_28_0_0_rc02.xml" timestamp="1535650560528" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_appcompat_v7_28_0_0_rc02.xml" timestamp="1535650560590" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_asynclayoutinflater_28_0_0_rc02.xml" timestamp="1535650560622" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_collections_28_0_0_rc02_jar.xml" timestamp="1535650560668" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_1_1_2.xml" timestamp="1535650560746" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_constraint_constraint_layout_solver_1_1_2_jar.xml" timestamp="1535650560809" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_coordinatorlayout_28_0_0_rc02.xml" timestamp="1535650560871" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_cursoradapter_28_0_0_rc02.xml" timestamp="1535650560949" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_customview_28_0_0_rc02.xml" timestamp="1535650561074" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_documentfile_28_0_0_rc02.xml" timestamp="1535650561355" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_drawerlayout_28_0_0_rc02.xml" timestamp="1535650561417" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_interpolator_28_0_0_rc02.xml" timestamp="1535650561480" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_loader_28_0_0_rc02.xml" timestamp="1535650561542" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_localbroadcastmanager_28_0_0_rc02.xml" timestamp="1535650561636" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_print_28_0_0_rc02.xml" timestamp="1535650561698" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_slidingpanelayout_28_0_0_rc02.xml" timestamp="1535650561760" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_annotations_28_0_0_rc02_jar.xml" timestamp="1535650561838" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_compat_28_0_0_rc02.xml" timestamp="1535650561901" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_core_ui_28_0_0_rc02.xml" timestamp="1535650561963" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_core_utils_28_0_0_rc02.xml" timestamp="1535650562026" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_fragment_28_0_0_rc02.xml" timestamp="1535650562119" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_support_vector_drawable_28_0_0_rc02.xml" timestamp="1535650562197" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_swiperefreshlayout_28_0_0_rc02.xml" timestamp="1535650562275" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" timestamp="1535650562353" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" timestamp="1535650562431" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_monitor_1_0_2.xml" timestamp="1535650562525" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_test_runner_1_0_2.xml" timestamp="1535650562790" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_versionedparcelable_28_0_0_rc02.xml" timestamp="1535650562852" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_android_support_viewpager_28_0_0_rc02.xml" timestamp="1535650562915" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1535650562977" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1535650563055" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1535650563149" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1535650563211" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1535650563320" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1535650563664" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1535650563773" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1535650563851" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\misc.xml" timestamp="1535650559951" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\modules.xml" timestamp="1535650559998" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\runConfigurations.xml" timestamp="1535499382174" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\.idea\workspace.xml" timestamp="1535665541888" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\MyApplication.iml" timestamp="1535650559233" />
+    <file path="C:\Users\alunoti\AndroidStudioProjects\MyApplication\app\app.iml" timestamp="1535664554444" />
+  </project-files>
+</conversion>
+
